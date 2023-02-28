@@ -4,6 +4,9 @@ def saludar():
 def prueba():
     print('Esto es una prueba de la nueva version')
 
+def prueba2():
+    print('Esto es una prueba dos para git')
+
 class Saludo:
     def __init__(self):
         print("Hola te saludo desde Saludo.__init__()")
